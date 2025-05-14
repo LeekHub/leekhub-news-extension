@@ -13,6 +13,12 @@
 
 ## 安装说明
 
+### 方式一：Chrome Web Store 安装（推荐）
+
+直接访问 [Chrome Web Store](https://chromewebstore.google.com/detail/leekhub-%E9%87%91%E8%9E%8D%E8%B5%84%E8%AE%AF/keodfmimcdggjoklbbgocjnlagdjmelp) 点击"添加至 Chrome"按钮即可安装。
+
+### 方式二：开发者模式安装
+
 1. 下载本扩展的所有文件
 2. 打开 Chrome 浏览器，进入扩展管理页面（chrome://extensions/）
 3. 开启右上角的"开发者模式"
