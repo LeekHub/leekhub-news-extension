@@ -1,4 +1,4 @@
-# LeekHub 金十数据 Chrome 扩展
+# leekhub-news-extension
 
 一个简单的 Chrome 扩展，用于展示实时财经新闻。
 
