@@ -1,0 +1,8 @@
+{
+  "name": "leekhub-finews-extension",
+  "version": "1.0.0",
+  "description": "LeekHub 金融资讯 Chrome 插件",
+  "scripts": {
+    "generate-icons": "node generate_icons.js"
+  }
+} 
