@@ -17,6 +17,8 @@
 
 直接访问 [Chrome Web Store](https://chromewebstore.google.com/detail/leekhub-%E9%87%91%E8%9E%8D%E8%B5%84%E8%AE%AF/keodfmimcdggjoklbbgocjnlagdjmelp) 点击"添加至 Chrome"按钮即可安装。
 
+- Chrome Web Store 网络问题可以下载安装包安装，前往 https://uutool.cn/chrome-crx/ ，输入插件ID: `keodfmimcdggjoklbbgocjnlagdjmelp`
+
 ### 方式二：开发者模式安装
 
 1. 下载本扩展的所有文件
@@ -37,17 +39,3 @@
 
 本扩展仅获取并展示金十数据网站的公开新闻信息，不会收集任何用户个人数据。 
 
-## 开发说明
-
-```code
-leekhub-finews-extension/
-├── manifest.json        // 扩展配置文件
-├── popup.html          // 弹出窗口界面
-├── popup.js           // 主要逻辑代码
-├── styles.css         // 样式文件
-├── README.md          // 说明文档
-└── images/            // 图标目录
-    ├── icon16.png
-    ├── icon48.png
-    └── icon128.png
-```
